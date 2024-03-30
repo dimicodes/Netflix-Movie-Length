@@ -32,3 +32,8 @@ The script will:
 - Load the Netflix movies data.
 - Filter the dataset to include only movies.
 - Visualize the relationship between the release year and movie duration, highlighting different genres with colors.
+
+### Preview
+
+![image](https://github.com/dimicodes/Netflix-Movie-Length/assets/45632694/5df295ba-b3ee-428d-aa91-3d81c4fd0ef0)
+
